@@ -32,7 +32,7 @@ section {
 	text-align: left; /* 左寄せ */
 }
 
-.lang-table tr:first-row{
+.lang-table tr:first-child{
 	background-color: #89ebb5;
 	font-weight: bold;
 }
