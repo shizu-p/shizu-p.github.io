@@ -22,7 +22,6 @@ section {
 
 /* lang-table */
 .lang-table {
-	margin-left : 20px; /*右にずらす*/
 	border-collapse: collapse;
 	width: 100%;
 }
