@@ -19,3 +19,22 @@ section {
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+/* lang-table */
+.lang-table {
+	margin-left : 20px; /*右にずらす*/
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.lang-table th, .lang-table td{
+	border : 1px solid #ddd;
+	padding : 8px;
+	text-align: left; /* 左寄せ */
+}
+
+.lang-table tr:first-row{
+	background-color: #89ebb5;
+	font-weight: bold;
+}
+
